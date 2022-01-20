@@ -10,7 +10,7 @@
     "@chainsafe/common-components": "1.0.26",
     "@chainsafe/common-theme": "1.0.6",
     "@material-ui/styles": "4.10.0",
-    "@sentry/react": "^5.26.0",
+    "@sentry/react": "^5.30.0",
     "@types/history": "^4.7.8",
     "bnc-onboard": "1.15.0",
     "clsx": "^1.1.1",
